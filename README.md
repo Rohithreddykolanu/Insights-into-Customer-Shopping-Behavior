@@ -85,7 +85,7 @@ There is significant potential to increase revenue by converting non-subscribers
 
 ---
 
-## 🔮 Future Scope & Next Steps
+## 📌 Future Scope & Next Steps
 - Perform time-series analysis to capture seasonal trends  
 - Build predictive models for customer churn and lifetime value  
 - Develop personalized recommendation systems  
